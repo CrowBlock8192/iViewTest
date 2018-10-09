@@ -1,0 +1,2 @@
+webpackJsonp([2],{MHnD:function(t,e){},jlTo:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("this is olist")])},staticRenderFns:[]};var i=n("C7Lr")({data:function(){return{}},methods:{}},r,!1,function(t){n("MHnD")},"data-v-7658ad62",null);e.default=i.exports}});
+//# sourceMappingURL=2.9a0c3a81c0a551f73ddc.js.map
