@@ -1,2 +1,0 @@
-webpackJsonp([1],{INf2:function(t,e){},XRCz:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("this is ulist")])},staticRenderFns:[]};var i=n("C7Lr")({data:function(){return{}},methods:{}},r,!1,function(t){n("INf2")},"data-v-7cba553d",null);e.default=i.exports}});
-//# sourceMappingURL=1.d8979f66685ce4c2d45d.js.map
